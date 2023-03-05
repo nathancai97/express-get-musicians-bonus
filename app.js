@@ -62,6 +62,7 @@ app.put('/musicians/:id', async (req, res) => {
 // The Band Model has an association with many musicians
 // 1. Respond with the Bands including the Musicians in that band.
 
+// hey why cant i npm install
 
 //TODO: Make a GET Request to the Band Model at a particular ID
 // The Band Model has an association with many musicians 
